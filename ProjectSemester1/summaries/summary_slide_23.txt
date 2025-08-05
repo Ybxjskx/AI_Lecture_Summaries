@@ -1,0 +1,1 @@
+The slide defines Big O notation:  f(n) = O(g(n)) if f(n) ≤ c * g(n) for some constant c and all n > N (for some N).  The examples illustrate this definition: n = O(n), 20n = O(n), and n = O(n²) are shown to be true by finding appropriate constants c.  Conversely, it's proven that n² ≠ O(n) because no constant c can satisfy the inequality for all sufficiently large n.
